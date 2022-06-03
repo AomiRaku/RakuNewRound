@@ -3,7 +3,7 @@
 
 ***
 
-本样式表基于 [Ry-Sk]([RY-SK (github.com)](https://github.com/Ry-Sk)) 的 [R-Project](https://github.com/Ry-Sk/R-Project) ，主要变动是给 ***Ver  930***（商城发布）之后的新 UI 添加了圆角，并且调整或新增了如下几个**新的样式**和**易用功能**：
+本样式表基于 [Ry-Sk](https://github.com/Ry-Sk) 的 [R-Project](https://github.com/Ry-Sk/R-Project) ，主要变动是给 ***Ver  930***（商城发布）之后的新 UI 添加了圆角，并且调整或新增了如下几个**新的样式**和**易用功能**：
 
 + 侧栏内容圆角化；
 + 页面顶部导航栏圆角化；
@@ -29,5 +29,5 @@
 
 ### 特别致谢
 
-[Ry-Sk]([RY-SK (github.com)](https://github.com/Ry-Sk)) 
-[IIROSE]([By Ruby](https://iirose.com/#s=5b54a839b48fd&act=i:5b54a839b48fd)) 
+[Ry-Sk](https://github.com/Ry-Sk)
+[IIROSE](https://iirose.com/#s=5b54a839b48fd&act=i:5b54a839b48fd)
