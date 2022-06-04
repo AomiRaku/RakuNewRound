@@ -39,7 +39,7 @@
 
 
 
-> 预提供 css 直链：`https://raku.dimojang.com/wp-content/uploads/2022/06/RakuNewRound_1.0.5.css`
+> 预提供 css 直链：`https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBaXYwU1VGc1BKODhrRU91SloxamtpRjlmcWZxP2U9MnJMa2xy.css`
 **不保证长期有效。** 建议自行存储 css 文件生成直链。
 
 ***
