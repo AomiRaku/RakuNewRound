@@ -1,0 +1,539 @@
+/*
+
+IIROSE-RakuNewRound
+
+Based on R-Project（By Ry-Sk）
+Made with ♥ by InkyettaRaku 
+
+*/
+
+/* 基于 Saiki 的圆角 CSS 的自用 CSS 。 */
+
+@charset "utf-8";
+
+/*.room_chat_content>div:nth-child(1)>div:nth-child(1),
+.room_chat_content>div:nth-child(1)>div:nth-child(2),
+.room_chat_content>div:nth-child(1)>div:nth-child(3),*/
+
+.privatemsgMessagesBodyItemIcon,
+.privatemsgSexBody,
+.privatemsgIcon,
+.privatemsgIconBg,
+.privatemsgSex,
+.privatemsgSexShadow,
+.whoisAvatarBox>div:nth-child(1),
+.whoisAvatarBox>div:nth-child(1)>div:nth-child(1) {
+    display: none !important;
+}
+
+.privatemsgInfo {
+    width: 250px !important;
+}
+
+.privatemsgCloseWraper,
+.privatemsgInfo {
+    /*background: rgba(48,48,48) !important;*/
+    background: #303030 !important;
+}
+
+.privatemsgCloseWraper {
+    width: 50px !important;
+}
+
+.room_chat_content[style*=margin-left]>div:nth-child(2)>div:nth-child(1),
+.privatemsgMessagesBodyItemBody[style*="float:right;"]>div:nth-child(1)>div:nth-child(1),
+.room_chat_content[style*=margin-left] {
+    border-radius: 8px 8px 0px 8px !important;
+}
+
+.systemCardMediaShare,
+.privatemsgMessagesBodyItemBody>div:nth-child(1)>div:nth-child(1),
+.room_chat_content {
+    border-radius: 8px 8px 8px 0px !important;
+}
+
+#helpHolder>div:nth-child(4)>div:nth-child(2)>div:nth-child(1)>div:nth-child(1)>div:nth-child(1),
+#helpHolder>div:nth-child(5)>div:nth-child(2)>div:nth-child(1)>div:nth-child(1)>div:nth-child(1),
+#roominfoHolder>div:nth-child(2)>div:nth-child(2)>div:nth-child(1)>div:nth-child(2)>div:nth-child(1)>div:nth-child(1),
+.room_chat_content[style*=margin-left]>div:nth-child(3) {
+    border-radius: 8px 0px 0px 8px !important;
+}
+
+#helpHolder>div:nth-child(4)>div:nth-child(2)>div:nth-child(1)>div:nth-child(1)>div:nth-child(6),
+
+/*此项目会与检察官 房间通知 DIV 产生冲突，故注释，之后寻找其他方法*/
+
+
+/*#helpHolder>div:nth-child(5)>div:nth-child(2)>div:nth-child(1)>div:nth-child(1)>div:nth-child(5),*/
+
+.systemCardMediaShareImg {
+    border-radius: 0px 8px 8px 0px !important;
+}
+
+.whoisC>div:nth-child(1)>div:nth-child(2) {
+    border-radius: 25% !important;
+}
+
+
+.mapHolderRoomListItem>div:nth-child(1)>div:nth-child(1),
+.followName>div:nth-child(1),
+#makeMoneyHolder>div:nth-child(2)>div:nth-child(2)>div:nth-child(1)>div:nth-child(1)>div:nth-child(1),
+.commonBoxHead {
+    border-radius: 8px 8px 0px 0px !important;
+}
+
+.commonBox>div:nth-child(2) {
+    border-radius: 0px 0px 8px 8px !important;
+}
+
+
+/*#lockScreenHolder>div:nth-child(2)>div:nth-child(1)>div:nth-child(1),*/
+
+#makeMoneyHolder>div:nth-child(3)>div:nth-child(2)>div:nth-child(1)>div:nth-child(1)>div:nth-child(1),
+#selectHolderBox,
+#initshowLoadBody,
+#bankHolder,
+#stockHolder,
+#shellHolder,
+#paintHolder,
+#gameEmulatorHolder,
+#browserHolder,
+#translateHolder,
+#symbolsHolder,
+#pairHolder,
+#noteHolder,
+.whoisInfoBox>div>div,
+.whoisC>div:nth-child(1),
+.whoisC,
+.pubMsgTimeBody,
+.pubMsgSystemBody,
+.priMsgImg,
+.pubMsgImg,
+.emojiMsgImg,
+.emojiImg,
+.demandHolderItem,
+.mapHolderRoomListItem,
+.panelHolderItemSmall,
+.maxWidth_24,
+.commonBox,
+.cardTag,
+.userholder,
+.otherroom,
+.mapHolderRoomListItem,
+.followName,
+.privatemsgMessagesTimeBody,
+.privatemsgMessagesSystemBody,
+.mapHolderRoomListItem>div:nth-child(1)>div:nth-child(1)>div:nth-child(1)>img,
+.roomavatar>div:nth-child(1)>div:nth-child(1)>img,
+.shopItemColor>div:nth-child(1)>div:nth-child(1)>img,
+.whoisTouch2>div:nth-child(1)>div:nth-child(1)>img,
+.systemCardMediaShareImg>div:nth-child(1)>img,
+.privatemsg {
+    border-radius: 8px !important;
+}
+
+.shopItemColor>div:nth-child(1)>div:nth-child(1)>div:nth-child(1)>img,
+.shopItemColor>div:nth-child(1)>div:nth-child(1)>img,
+.mapHolderRoomListItem>div:nth-child(1)>div:nth-child(1)>div:nth-child(1)>img,
+.roomavatar>div:nth-child(1)>div:nth-child(1)>img {
+    box-shadow: 0px 0px 3px #232323;
+}
+
+.privatemsgNameContent {
+    width: 80px;
+    overflow: inherit !important;
+}
+
+
+/*
+.functionButton,
+.functionButton {
+    margin-left: 5%;
+    width: 90% !important;
+    margin-top: 5px !important;
+    border-radius: 28px !important;
+} */
+
+.shopItemColor>div:nth-child(1)>div:nth-child(1)>div:nth-child(1)>img,
+#userREHolder>div:nth-child(2)>div:nth-child(2)>div:nth-child(1)>div:nth-child(1)>div:nth-child(1),
+#userREHolder>div:nth-child(2)>div:nth-child(2)>div:nth-child(1)>div:nth-child(1)>div:nth-child(1)>div:nth-child(1),
+.cardTagAvatar,
+.whoisAvatarBox,
+.ExtIconSettings,
+.whoisAvatar,
+.danmakuAvatar,
+.msgavatar {
+    border-radius: 50% !important;
+    overflow: hidden !important;
+}
+
+.roomavatar>div:nth-child(1) {
+    border-radius: 25% !important;
+}
+
+#initshowBoxContent>div:nth-child(2)>div:nth-child(2) {
+    border: 0px !important;
+}
+
+
+
+
+
+/*/////以上是 R-Project 原始代码。以下是新增内容。////////////////////////////////////////////////////////////////*/
+
+
+
+
+
+.pubMsgSystemBox {
+    border-radius: 8px !important;
+}
+/*居中系统消息圆角*/
+
+.followName2 {
+    background: #28365a;
+    border-radius: 4px !important;
+    padding-right: 5px !important;
+    padding-left: 5px !important;
+    color: #fff;
+}
+/*内链高亮*/
+
+.sessionHolderPmTaskBoxItem.whoisTouch2 {
+    border-radius:10px !important;
+    margin-top: 8px !important;
+    margin-bottom: 8px !important;
+}
+
+.sessionHolderPmTaskBox>div:nth-child(1)>div:nth-child(3) {
+    border-radius: 50% !important;
+}
+/*私聊联系人列表圆角*/
+
+.panelReturnBtn {
+    margin: 10px !important;
+    border-radius: 8px 0px 0px 8px !important;
+}
+
+.contentItemBgicon.mainColor.textOverflowEllipsis{
+    margin: 10px;
+    border-radius: 0px 8px 8px 0px;
+}
+
+.panelMainBtn{
+    margin-top: 10px !important;
+    margin-bottom: 10px !important;
+    margin-left: 5px !important;
+    margin-right: 10px !important;
+    border-radius: 8px 8px 8px 8px !important;
+}
+
+.panelFunctionBtn {
+    margin-top: 10px !important;
+    margin-bottom: 10px !important;
+    margin-left: 5px !important;
+    margin-right: 5px !important;
+    border-radius: 8px 8px 8px 8px !important;
+}
+/*顶部导航按钮圆角*/
+
+.mainBg_color.commonColor.textOverflowEllipsis {
+    margin: none !important;
+    border-radius: none !important;
+}
+/*修正导航栏 margin 和一些圆角导致的浮窗标题栏偏移和错误圆角*/
+
+/*以下中控界面*/
+
+.homeHolderMsgBoxChild.chatMsgFontSize {
+    background: rgba(0,0,0,.25) !important;
+    border-radius: 8px !important;
+
+}
+
+.homeHolderMsgBoxChildInfoMsg {
+    background: rgba(0, 0, 0, .45) !important;
+    border-radius: 8px !important;
+    padding: 8px !important;
+}
+
+.homeHolderMsgBoxChildIcon {
+    margin: 10px !important;
+
+}
+
+.whoisTouch2.homeHolderMsgBoxChildIcon {
+    margin: 10px !important;
+}
+
+.homeHolderItemChild {
+    background: rgba(0,0,0,.6) !important;
+    border-radius:10px !important;
+}
+
+/*
+.bgImgBox {
+    border-radius: 10px !important;
+}
+*/
+
+#homeHolder>div:nth-child(1)>div:nth-child(1)>div:nth-child(1)>div:nth-child(1)>div:nth-child(1) {
+    border-radius: 10px !important;
+}
+
+#homeHolder>div:nth-child(1)>div:nth-child(1)>div:nth-child(1)>div:nth-child(1)>div:nth-child(1)>div:nth-child(1) {
+    border-radius: 10px !important;
+}
+
+#homeHolder>div:nth-child(1)>div:nth-child(1)>div:nth-child(1)>div:nth-child(2) {
+    border-radius: 10px !important;
+}
+
+#homeHolder .bgImg {
+    border-radius: 10px !important;
+}
+
+/*我也不知道为什么要这么多次才能把这个媒体圆角削干净...*/
+
+.fullbox {
+    border-radius: 10px !important;
+}
+/*这个fullbox现在不知道还有哪里在用，所以如果有莫名其妙的圆角，可能是这个引起的,无伤大雅~*/
+
+#homeHolderVisualizerCanvas {
+    border-radius: 10px !important;
+}
+
+.whoisTouch {
+    border-radius: 10px !important;
+    margin-left: 3px;
+    margin-right: 3px;
+    margin-top: 1px;
+}
+
+.homeHolderMsgTitleUnread{
+    border-radius: 6px !important;
+    margin: 2px !important;
+}
+
+/*以下侧栏*/
+
+/*
+.functionHolder{
+    border-radius: 12px !important;
+    margin: 15px !important;
+}
+
+悬浮侧栏，弃用。
+*/
+
+#functionHolderInfoIcon{
+    border-radius: 10px !important;
+}
+
+.functionButton.functionButtonGroup{
+    border-radius: 8px !important;
+    margin: 6px !important;
+    width: 262px !important;
+}
+
+.functionButton{
+    border-radius: 8px !important;
+    margin: 6px !important;
+    width: 242px !important;
+}
+
+.functionItemBox {
+    border-radius: 8px !important;
+    margin: 6px !important;
+    padding: 5px !important;
+}
+
+#functionHolder>div:nth-child(1)>div:nth-child(1) {
+    border-radius: 8px !important;
+    margin: 6px !important;
+    width: 262px !important;
+}
+
+#functionHolderImg {
+    border-radius: 8px !important;
+}
+
+#functionHolderImg .bgImg {
+    border-radius: 8px !important;
+}
+
+.functionHolderInfoIcon>div:nth-child(2)>div:nth-child(2) {
+    height: 0px !important;
+    box-shadow: none !important;
+}
+
+.functionHolderInfo.whoisTouch2>div:nth-child(2) {
+    border-bottom: 0px !important;
+}
+
+.functionHolderInfo.whoisTouch2>div:nth-child(2)>div:nth-child(2)>div:nth-child(1) {
+    background: rgba(255, 255, 255, 0) !important;
+}
+
+.functionHolderInfo.whoisTouch2>div:nth-child(2)>div:nth-child(2) {
+    box-shadow: none !important;
+}
+
+.extPmInfo {
+    width: 180px !important;
+}
+
+.extPmInfoName.textOverflowEllipsis {
+    width: 165px !important;
+}
+
+.ExtIconImg .bgImg {
+    border-radius: 8px !important;
+}
+
+.ExtIconImg {
+    height: 50px !important;
+    width: 50px !important;
+}
+
+.ExtSettings {
+    background: #f0f0f000 !important;
+}
+
+.ExtSettings>div:nth-child(4) {
+    width: 38px !important;
+}
+
+.extPmInfoDate {
+    width: 0px !important;
+}
+
+.extPmInfo {
+    width: 180px !important;
+}
+
+.extPmSex {
+    color: #40404000 !important;
+    height: 0px !important;
+}
+
+.ExtInitBg {
+    width: 245px !important;
+    float: left !important;
+}
+
+.ExtInitBg .bgImg {
+    border-radius: 8px !important;
+}
+
+#shareMediaBox>div:nth-child(2)>div:nth-child(2) {
+    right: 30px !important;
+}
+
+#shareMediaTime {
+    text-align: left !important;
+    right: 18px !important;
+}
+
+#shareMediaProgress {
+    left: auto !important;
+    width: 180px !important;
+    height: 8px !important;
+}
+
+#shareMediaBox>div:nth-child(2)>div:nth-child(1) {
+    width: 110px !important;
+}
+
+#shareMediaSex {
+    color: #00000000 !important;
+}
+
+/*以下输入框*/
+
+#moveinputBubble {
+    border-radius: 10px 10px 10px 10px !important;
+}
+
+#moveinputDisplay {
+    border-radius: 10px 10px 10px 10px !important;
+    margin-bottom: 10px !important;
+    margin-left: 10px !important;
+}
+
+.moveinputSendBtn.whoisTouch2 {
+    margin-right: 10px !important;
+}
+
+#moveinputDisplay .bgImg {
+    border-radius: 10px !important;
+}
+
+/*以下悬浮通知*/
+
+#alertHolder {
+    bottom: none !important;
+    top: 100px !important;
+    justify-content: flex-start !important;
+    align-items: flex-start !important;
+
+}
+
+/*以下弹幕*/
+
+.danmakuIconBox {
+    border-radius: 10px !important;
+    margin-right: 5px !important;
+}
+
+.danmakuIcon.whoisTouch2 {
+    border-radius: 10px !important;
+    margin-right: 5px !important;
+}
+
+.danmakuMsgBox {
+    border-radius: 10px !important;
+}
+
+/*以下商城*/
+
+.shopItemColor{
+    border-radius: 10px !important;
+}
+
+.mainColor.whoisTouch2{
+    border-radius: 8px !important;
+}
+
+.mainBg_color.whoisTouch2{
+    border-radius: 8px !important;
+}
+
+.boardLineBgColor.whoisTouch2 {
+    border-radius: 8px !important;
+}
+
+/*.ExtIconSettings.mdi-cart-outline {
+    border-radius: 0px !important;
+}
+
+此条是修正 R-Project 中商品 hover 形状错误的，但是貌似并没有修好....*/
+
+/*以下全局*/
+
+/*
+.commonBox{
+    min-width: 95% !important;
+}
+
+网格内容单行显示。不好看还有bug（
+*/
+
+/*以下资料卡*/
+.whoisTouch.mdi-thumb-up-outline,
+.whoisTouch.mdi-comment-text-outline,
+.whoisTouch.mdi-thumb-down-outline {
+    margin-left: 4px !important;
+    margin-right: 4px !important;
+}
