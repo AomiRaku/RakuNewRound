@@ -30,7 +30,7 @@
 
 ***
 
-### 使用方法：
+### 使用方法
 **Step1**： 打开侧栏>工具>终端。
 
 **Step2**：点击绿框，输入`css`（必须小写）并执行。
@@ -38,7 +38,8 @@
 **Step3**：在弹出的窗口粘贴 css 的地址（直链），点击确定即可。
 
 
-> 预提供 css 地址：`https://raku.dimojang.com/wp-content/uploads/2022/06/RakuNewRound_1.0.5.css`
+
+> 预提供 css 直链：`https://raku.dimojang.com/wp-content/uploads/2022/06/RakuNewRound_1.0.5.css`
 
 > **不保证长期有效。** 建议自行存储 css 文件生成直链。
 
