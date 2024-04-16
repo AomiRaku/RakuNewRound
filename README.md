@@ -1,5 +1,6 @@
 # RakuNewRound.CSS
 ### 千景自用的 IIROSE 圆角 CSS 。
+暂停维护，说不定以后什么时候回恢复，也不一定。
 
 ***
 
