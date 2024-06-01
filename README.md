@@ -1,4 +1,4 @@
-# RakuNewRound.CSS
+![image](https://github.com/AomiRaku/RakuNewRound/assets/33995671/1b9684d8-910c-4ee3-a8ae-1b34c6cf55b9)# RakuNewRound.CSS
 ### 千景自用的 IIROSE 圆角 CSS 。
 暂停维护，说不定以后什么时候回恢复，也不一定。
 
@@ -40,7 +40,9 @@
 
 
 
-> 预提供 css 直链：`https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBaXYwU1VGc1BKODhrRU91SloxamtpRjlmcWZxP2U9MnJMa2xy.css`
+> 预提供 css 直链：
+> `https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBaXYwU1VGc1BKODhrRU91SloxamtpRjlmcWZxP2U9MnJMa2xy.css`
+> `https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBaXYwU1VGc1BKODhrRU91SloxamtpRjlmcWZxP2U9MnJMa2xy.css`
 **不保证长期有效。** 建议自行存储 css 文件生成直链。
 
 ***
