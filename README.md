@@ -1,6 +1,6 @@
 # RakuNewRound.CSS
 ### 千景自用的 IIROSE 圆角 CSS 。
-暂停维护，说不定以后什么时候回恢复，也不一定。
+暂停维护，说不定以后什么时候会恢复，也不一定。
 
 ***
 
@@ -40,10 +40,10 @@
 
 
 
-> 预提供 css 直链：
-> `https://onw.cc/1drv.ms?url=https://1drv.ms/u/s!Aiv0SUFsPJ88kEMdcIj4gmL2r2xj?e=XDXA4Y`（2024-11-11有效）
-> ~~`https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBaXYwU1VGc1BKODhrRU91SloxamtpRjlmcWZxP2U9MnJMa2xy.css`~~（已失效）
-> ~~`https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBaXYwU1VGc1BKODhrRU91SloxamtpRjlmcWZxP2U9MnJMa2xy.css`~~（已失效）
+预提供 css 直链：
+`https://onw.cc/1drv.ms?url=https://1drv.ms/u/s!Aiv0SUFsPJ88kEMdcIj4gmL2r2xj?e=XDXA4Y`（2024-11-11测试有效）
+ ~~`https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBaXYwU1VGc1BKODhrRU91SloxamtpRjlmcWZxP2U9MnJMa2xy.css`~~（已失效）
+ ~~`https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBaXYwU1VGc1BKODhrRU91SloxamtpRjlmcWZxP2U9MnJMa2xy.css`~~（已失效）
 **不保证长期有效。** 建议自行存储 css 文件生成直链。
 
 ***
