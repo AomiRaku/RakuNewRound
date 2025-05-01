@@ -41,7 +41,9 @@
 
 
 预提供 css 直链：
-https://yun.urldwz.com/f/yggI8/1.css（2025.1.22测试有效）
+https://yun.urldwz.com/f/yggI8/1.css
+（2025.1.22测试有效）
+
  ~~`https://onw.cc/1drv.ms?url=https://1drv.ms/u/s!Aiv0SUFsPJ88kEMdcIj4gmL2r2xj?e=XDXA4Y`~~（已失效）
  ~~`https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBaXYwU1VGc1BKODhrRU91SloxamtpRjlmcWZxP2U9MnJMa2xy.css`~~（已失效）
  ~~`https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBaXYwU1VGc1BKODhrRU91SloxamtpRjlmcWZxP2U9MnJMa2xy.css`~~（已失效）
